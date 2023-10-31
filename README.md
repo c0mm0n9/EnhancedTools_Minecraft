@@ -1,5 +1,5 @@
 # EnhancedTools_Minecraft
-EnhancedTools - Minecraft paper plugin that adds some additional materials and tools
+EnhancedTools - Minecraft paper 1.20.2 plugin that adds some additional materials and tools
 ### Hardened diamond craft:
 ![crafting-grid](https://github.com/c0mm0n9/EnhancedTools_Minecraft/assets/42247980/0d0979dc-9a54-40fd-87cf-fcdd71078626)
 ### 
