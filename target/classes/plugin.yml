@@ -1,0 +1,7 @@
+name: EnhancedTools
+version: '1.0-SNAPSHOT'
+main: org.example.c0mm0n999.untitledplugin.EnhancedTools
+api-version: '1.20'
+commands:
+  itemeditor:
+    aliases: [ie]
